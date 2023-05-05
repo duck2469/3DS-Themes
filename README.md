@@ -5,7 +5,7 @@ all of the source i made for the themes are here
 
 # Disney DGamer Theme
 
-Music: Main Menu
+Music: Disney DGamer Main Menu
 
 ![github image](https://github.com/duck2469/3DS-Themes/blob/main/Themes/DGamer/main/preview.png)
 
